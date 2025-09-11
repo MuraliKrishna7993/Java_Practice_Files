@@ -9,5 +9,7 @@ public class WordsCount_Token {
         StringTokenizer token= new StringTokenizer(input);
         int count= token.countTokens();
         System.out.println(count);
+        System.out.println("-------------------");
+        System.out.println("Check");
     }
 }
