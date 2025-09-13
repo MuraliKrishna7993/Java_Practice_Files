@@ -1,0 +1,7 @@
+package ticket1Check;
+
+public class ticketClass {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
